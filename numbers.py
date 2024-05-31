@@ -8,14 +8,14 @@ print(float_num)
 a = 10
 b = 20
 
-add = a+ b
+add = a + b
 print(add)
 
 sub = b-a
 print(sub)
 
-multi =a * b
+multi = a * b
 print(multi)
 
-div =b/a
+div = b/a
 print(div)
