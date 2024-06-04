@@ -24,7 +24,7 @@ def isPalindrome(word:str) -> bool:
 
     return True
 
-test_cases = ["kayak","racecar",""]
+test_cases = ["kayak","racecar","", "bob"]
 
 for test_case in test_cases:
     print(isPalindrome(test_case))
